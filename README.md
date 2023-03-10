@@ -90,3 +90,6 @@
 		  Note : If you want to search any excluding or including ingredients then you must have to give below request params
 				1)You want to fetch including some ingredients then put ingredients=paneer&isInclude=true
 				2)You want to fetch excluding some ingredients then put ingredients=paneer&isInclude=false
+				
+				
+Note : Attached postman collection for APIs
